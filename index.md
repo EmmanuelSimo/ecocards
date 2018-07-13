@@ -4,7 +4,7 @@ layout: default
 # EcoCards
 
 
-## The digital loyalty cards 
+## Simple is beautiful
 
 scan your cards using your smartphone and use the app in all stores.
 the app is very light and easy to use.
