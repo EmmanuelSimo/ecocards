@@ -12,7 +12,7 @@ The Dinky theme is intended to make it quick and easy for GitHub Pages users to 
 ### Great advantages :
 
 1. No ads
-2. Small size app
+2. Small size
 3. User Experience
 5. Free
 
