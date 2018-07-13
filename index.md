@@ -16,9 +16,9 @@ Interested in contributing to Dinky? We'd love your help. Dinky is an open sourc
 
 If you'd like to preview the theme locally (for example, in the process of proposing a change):
 
-1. no ads
-2. small size app
-3. Base on User Expirience
+1. No ads
+2. Small size app
+3. User Experience
 5. Free
 
 
