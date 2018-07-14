@@ -6,8 +6,8 @@ layout: default
 
 ## Simple is beautiful
 
-scan your cards using your smartphone and use the app in all stores.
-the app is very light and easy to use.
+Scan your cards using your smartphone and use the app in all stores,
+very light and easy to use.
 the barcode can scan with your camera or manually inserted.
 
 
@@ -15,11 +15,12 @@ the barcode can scan with your camera or manually inserted.
 
 1. No ads
 2. Small size
-3. User Experience
+3. Easy to use
 5. Free
+...
 
 
-### Share
+## Share
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
 
