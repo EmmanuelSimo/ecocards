@@ -22,4 +22,6 @@ the barcode can scan with your camera or manually inserted.
 
 ## Support 
 
-## Privacy Policy
+For support and further information, please contact emm6lab@gmail.com .
+
+#### Enjoy ...
