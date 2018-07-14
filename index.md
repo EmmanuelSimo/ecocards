@@ -20,10 +20,6 @@ the barcode can scan with your camera or manually inserted.
 ...
 
 
-## Share
+## Support 
 
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
-
-## Contributing
-
-Interested in contributing to Dinky? We'd love your help. Dinky is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
+## Privacy Policy
